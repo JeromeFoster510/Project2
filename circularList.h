@@ -1,7 +1,7 @@
 
 
-#ifndef LIST_H
-#define LIST_H
+#ifndef circularList_H
+#define circularList_H
 
 struct Node {
     int data;
